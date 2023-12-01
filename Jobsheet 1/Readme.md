@@ -41,17 +41,17 @@
 
 ### GPIO | Percobaan 2 Dengan Push Button
 
-### Rangkaian 
+#### Rangkaian 
 
 
 ### GPIO | Percobaan 2 Dengan Penambahan 1 Push Button dan 1 LED
 
-### Rangkaian 
+#### Rangkaian 
 
 
 ### GPIO | Percobaan 3 Dengan Penambahan 1 Push Button dan 3 LED
 
-### Rangkaian 
+#### Rangkaian 
 
 
 ## B. PWM

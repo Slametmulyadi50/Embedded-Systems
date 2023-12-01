@@ -33,14 +33,25 @@
    - Buka **Tools > Flash Mode > DIO/QIU** menyesuaikan
 
 ## A. GPIO (General Purpose Input-Output)
+
 ### GPIO | Percobaan 1 LED Blink
+
 #### Rangkaian 
+
+
 ### GPIO | Percobaan 2 Dengan Push Button
-#### Rangkaian 
+
+### Rangkaian 
+
+
 ### GPIO | Percobaan 2 Dengan Penambahan 1 Push Button dan 1 LED
-#### Rangkaian 
+
+### Rangkaian 
+
+
 ### GPIO | Percobaan 3 Dengan Penambahan 1 Push Button dan 3 LED
-#### Rangkaian 
+
+### Rangkaian 
 
 
 ## B. PWM

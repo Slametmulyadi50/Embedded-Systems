@@ -20,7 +20,8 @@
 5) LED (5) dan Push Button (3)
 6) Resistor 330,1K, 10K Ohm (@3)
 7) Sensor Capacitive Soil Moisture
-8) Three-Way Meter
+8) Multimeter
+9) Three-Way Meter
 
 > [!NOTE]  
 > *Buka folder-folder subjob untuk melihat laporan percobaan*

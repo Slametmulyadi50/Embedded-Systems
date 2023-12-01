@@ -52,6 +52,11 @@ Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi5
 #### a. Rangkaian 
 
 #### b. Source Kode 
+Berikut adalah Kode Program yang digunakan 
+
+
+Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/83ca03f5bf528b2a96ecef010ff0196dcd0cc840/Jobsheet%201/A.%20GPIO/GPIO_LED_dengan_Push_Button.ino">disini</a>
+
 
 #### c. Hasil
 
@@ -60,6 +65,11 @@ Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi5
 #### a. Rangkaian 
 
 #### b. Source Kode 
+Berikut adalah Kode Program yang digunakan 
+
+
+Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/83ca03f5bf528b2a96ecef010ff0196dcd0cc840/Jobsheet%201/A.%20GPIO/GPIO_LED_Tambah_1_LED_dan_1_Push_Button.ino">disini</a>
+
 
 #### c. Hasil
 
@@ -68,6 +78,11 @@ Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi5
 #### a. Rangkaian 
 
 #### b. Source Kode 
+Berikut adalah Kode Program yang digunakan 
+
+
+Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/83ca03f5bf528b2a96ecef010ff0196dcd0cc840/Jobsheet%201/A.%20GPIO/GPIO_LED_Tambah_3_LED_dan_1_Push_Button.ino">disini</a>
+
 
 #### c. Hasil
 ## B. PWM

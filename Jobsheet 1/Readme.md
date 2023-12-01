@@ -22,5 +22,16 @@
 8) Multimeter
 9) Three-Way Meter
 
+### Konfigurasi Installasi Sebelum Praktikum
+1. Buka Arduino IDE
+2. Install ESP32 di dalam Arduino IDE
+   - Masuk ke **Preferences**
+   - Isikan board url pada kolom Additional dengan link Berikut
+   - https://dl.espressif.com/dl/package_esp32_index.json dan simpan
+   - Buka **Tools > Board > Board Manager**
+   - cari ESP32, by Espresif System, kemudian install
+   - Buka **Tools > Flash Mode > DIO/QIU** menyesuaikan
+   
+  
 > [!NOTE]  
 > *Buka folder-folder subjob untuk melihat laporan percobaan*

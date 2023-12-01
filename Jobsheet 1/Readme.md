@@ -1,15 +1,14 @@
 # JOBSHEET 1 - DASAR PEMROGRAMAN ESP32 UNTUK PEMROSESAN DATA INPUT/OUTPUT ANALOG DAN DIGITAL
 
 ## Abstrak
-<p align="justify">Hehe Nanti dlu ya</p>
+<p align="justify">ESP32 adalah mikrokontroler yang sangat fleksibel untuk proyek Internet of Things (IoT) dan kuat yang dikembangkan oleh Espressif Systems. ESP32 merupakan pengembangan dari mikrokontroler ESP8266 yang dimana ESP32 menyediakan konektivitas nirkabel yang lebih baik dari ESP8266. Perbedaan Utama antara kedua ESP tersebut pada Prosesor yaitu ESP32 sudah menggunakan prosesor Dual-Core Xtensa LX6, kemudian konektivitas yang ada pada ESP32 dikembangkan dimana tidak hanya mendukung Wifi namun sudahh terintegrasi dengan modul Bluetooth, memorinya pun lebih besar dari ESP8266, serta penambahan beberapa periperal yang lebh banyak seperti SPI dan UART serta keamanan yang mendukung protokol keamanan yang lebih kuat dari pada mikrokontroler sebelumnya, namun dengan banyaknya tambahan seperti itu konsumsi daya pada ESP32 dirancang dengan konsumsi yang lebih efisian dari sebelumnya.</p>
 
-<p align="justify">Jobsheet ini bertujuan untuk memahami dan mengoperasikan GPIO pada ESP32, memahami dan melakukan pengolahan data untuk input/output analog dan digital, dan melakukan optimalisasi pembacaan sensor analog menggunakan metode regresi linear.</p>
 
-**Sub-job** pada jobsheet ini, antara lain:
-1. GPIO
-2. PWM
-3. ADC dan DAC
-4. Regresi Linier
+**Tujuan pada jobsheet ini**, antara lain:
+1. Memahami dan Mengoperasika GPIO pada ESP32
+2. Memahami dan Melakukan pengolahan data untuk Input/Output analog dan digital
+3. Melakukan Optimalisasi Pembacaab sensor analog menggunkan metode regresi linier
+   
 
 ## Alat dan Bahan
 **Alat dan bahan** yang digunakan dalam jobsheet ini, antara lain:

@@ -36,24 +36,36 @@
 
 ### GPIO | Percobaan 1 LED Blink
 
-#### Rangkaian 
+#### a. Rangkaian 
+
+#### b. Source Kode 
+
+#### c. Hasil
 
 
 ### GPIO | Percobaan 2 Dengan Push Button
 
-#### Rangkaian 
+#### a. Rangkaian 
 
+#### b. Source Kode 
+
+#### c. Hasil
 
 ### GPIO | Percobaan 2 Dengan Penambahan 1 Push Button dan 1 LED
 
-#### Rangkaian 
+#### a. Rangkaian 
 
+#### b. Source Kode 
+
+#### c. Hasil
 
 ### GPIO | Percobaan 3 Dengan Penambahan 1 Push Button dan 3 LED
 
-#### Rangkaian 
+#### a. Rangkaian 
 
+#### b. Source Kode 
 
+#### c. Hasil
 ## B. PWM
 ## C. ADC Dan DAC
 ## D. Simulasi Pemrosesan Data Menggunakan Regresi Linier

@@ -42,7 +42,7 @@
 Berikut adalah Kode Program yang digunakan 
 
 
-Kode Program dapat dilihat dan dicoba <a href="Jobsheet 1/A. GPIO/GPIO_LED_Blink.ino">disini</a>
+Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/949f05fa067465d8b75d7fa57da31ae802427fe0/Jobsheet%201/A.%20GPIO/GPIO_LED_Blink.ino">disini</a>
 
 #### c. Hasil
 

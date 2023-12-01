@@ -31,7 +31,23 @@
    - Buka **Tools > Board > Board Manager**
    - cari ESP32, by Espresif System, kemudian install
    - Buka **Tools > Flash Mode > DIO/QIU** menyesuaikan
-   
+
+## A. GPIO (General Purpose Input-Output)
+### GPIO | Percobaan 1 LED Blink
+#### Rangkaian 
+### GPIO | Percobaan 2 Dengan Push Button
+#### Rangkaian 
+### GPIO | Percobaan 2 Dengan Penambahan 1 Push Button dan 1 LED
+#### Rangkaian 
+### GPIO | Percobaan 3 Dengan Penambahan 1 Push Button dan 3 LED
+#### Rangkaian 
+
+
+## B. PWM
+## C. ADC Dan DAC
+## D. Simulasi Pemrosesan Data Menggunakan Regresi Linier
+
+
   
 > [!NOTE]  
 > *Buka folder-folder subjob untuk melihat laporan percobaan*

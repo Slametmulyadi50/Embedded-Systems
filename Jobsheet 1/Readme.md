@@ -37,7 +37,6 @@
 ### GPIO | Percobaan 1 LED Blink
 
 #### a. Rangkaian 
-Berikut adalah Rangkaianya
 
 #### b. Source Kode 
 Berikut adalah Kode Program yang digunakan 

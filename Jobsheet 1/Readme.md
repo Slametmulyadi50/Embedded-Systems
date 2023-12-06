@@ -114,6 +114,31 @@ Kode Program dapat dilihat dan dicoba <a href="">disini</a>
 
 
 ## C. ADC Dan DAC
+
+### 1. ADC Dan DAC | Membaca nilai analog dari Potensiometer
+
+#### a. Rangkaian 
+
+#### b. Source Kode
+Berikut adalah Kode Program yang digunakan 
+
+
+Kode Program dapat dilihat dan dicoba <a href="">disini</a>
+
+#### c. Hasil
+
+### 2. ADC Dan DAC | Mengatur Kecerahan LED menggunakan Potensiometer
+
+#### a. Rangkaian 
+
+#### b. Source Kode
+Berikut adalah Kode Program yang digunakan 
+
+
+Kode Program dapat dilihat dan dicoba <a href="">disini</a>
+
+#### c. Hasil
+
 ## D. Simulasi Pemrosesan Data Menggunakan Regresi Linier
 
 

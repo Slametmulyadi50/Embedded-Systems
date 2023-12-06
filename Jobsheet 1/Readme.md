@@ -85,7 +85,34 @@ Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi5
 
 
 #### c. Hasil
+
 ## B. PWM
+
+### PWM | Mengatur Kecerahan LED
+
+#### a. Rangkaian 
+
+#### b. Source Kode
+Berikut adalah Kode Program yang digunakan 
+
+
+Kode Program dapat dilihat dan dicoba <a href="">disini</a>
+
+#### c. Hasil
+
+### PWM | Mengatur Kecerahan 3 LED
+
+#### a. Rangkaian 
+
+#### b. Source Kode
+Berikut adalah Kode Program yang digunakan 
+
+
+Kode Program dapat dilihat dan dicoba <a href="">disini</a>
+
+#### c. Hasil
+
+
 ## C. ADC Dan DAC
 ## D. Simulasi Pemrosesan Data Menggunakan Regresi Linier
 

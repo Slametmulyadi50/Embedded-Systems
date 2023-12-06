@@ -139,6 +139,16 @@ Kode Program dapat dilihat dan dicoba <a href="">disini</a>
 
 ## D. Simulasi Pemrosesan Data Menggunakan Regresi Linier
 
+#### a. Rangkaian 
+
+#### b. Source Kode
+Berikut adalah Kode Program yang digunakan 
+
+Kode Program dapat dilihat dan dicoba <a href="">disini</a>
+
+#### c. Hasil
+- 
+
 
   
 > [!NOTE]  

@@ -86,7 +86,7 @@ Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi5
 
 #### c. Hasil
 
-## B. PWM
+## B. PWM (Pulse Width Modulation)
 
 ### 1. PWM | Mengatur Kecerahan LED
 
@@ -96,7 +96,7 @@ Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi5
 Berikut adalah Kode Program yang digunakan 
 
 
-Kode Program dapat dilihat dan dicoba <a href="">disini</a>
+Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/f174db04a86a62c7e0ae7ee84838e93d72eae4e7/Jobsheet%201/B.%20PWM/PWM_1.ino">disini</a>
 
 #### c. Hasil
 
@@ -108,12 +108,12 @@ Kode Program dapat dilihat dan dicoba <a href="">disini</a>
 Berikut adalah Kode Program yang digunakan 
 
 
-Kode Program dapat dilihat dan dicoba <a href="">disini</a>
+Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/f174db04a86a62c7e0ae7ee84838e93d72eae4e7/Jobsheet%201/B.%20PWM/PWM_2.ino">disini</a>
 
 #### c. Hasil
 
 
-## C. ADC Dan DAC
+## C. ADC Dan DAC (Analog to Digital Converter) dan (Digital to Analog Converter)
 
 ### 1. ADC Dan DAC | Membaca nilai analog dari Potensiometer
 
@@ -122,7 +122,7 @@ Kode Program dapat dilihat dan dicoba <a href="">disini</a>
 #### b. Source Kode
 Berikut adalah Kode Program yang digunakan 
 
-Kode Program dapat dilihat dan dicoba <a href="">disini</a>
+Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/f174db04a86a62c7e0ae7ee84838e93d72eae4e7/Jobsheet%201/C.%20ADC%20dan%20DAC/ADC_dan_DAC_Rangkaian_1.ino">disini</a>
 
 #### c. Hasil
 
@@ -133,7 +133,7 @@ Kode Program dapat dilihat dan dicoba <a href="">disini</a>
 #### b. Source Kode
 Berikut adalah Kode Program yang digunakan 
 
-Kode Program dapat dilihat dan dicoba <a href="">disini</a>
+Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/f174db04a86a62c7e0ae7ee84838e93d72eae4e7/Jobsheet%201/C.%20ADC%20dan%20DAC/ADC_dan_DAC_Rangkaian_2_Potensiometer.ino">disini</a>
 
 #### c. Hasil
 
@@ -144,14 +144,20 @@ Kode Program dapat dilihat dan dicoba <a href="">disini</a>
 #### b. Source Kode
 Berikut adalah Kode Program yang digunakan 
 
-Kode Program dapat dilihat dan dicoba <a href="">disini</a>
+Kode Program dapat dilihat dan dicoba 
+Source kode 1 untuk mengukur kelembapan ke 3 sample tanah <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/f174db04a86a62c7e0ae7ee84838e93d72eae4e7/Jobsheet%201/D.%20Regresi%20Linier/Regresi_Linier_1.ino">disini</a>
+
+Source kode 2 untuk mengukur vs <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/f174db04a86a62c7e0ae7ee84838e93d72eae4e7/Jobsheet%201/D.%20Regresi%20Linier/Regresi_Linier_2.ino">disini</a>
+
+Source kode 3 hasil akhir dari pengukuran dan perbandingan ke 3 sample tanah <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/f174db04a86a62c7e0ae7ee84838e93d72eae4e7/Jobsheet%201/D.%20Regresi%20Linier/Regresi_Linier_3.ino">disini</a>
+
 
 #### c. Hasil
-- Tanpa tanah
 - Tanah Kering
 - Tanah Medium
 - Tanah Basah
 - Hasil tabel
 
 
+## Analisis dan Kesimpulan Sederhana
 

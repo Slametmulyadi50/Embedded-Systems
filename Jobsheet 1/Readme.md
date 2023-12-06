@@ -34,7 +34,7 @@
 
 ## A. GPIO (General Purpose Input-Output)
 
-### GPIO | Percobaan 1 LED Blink
+### 1. GPIO | Percobaan 1 LED Blink
 
 #### a. Rangkaian 
 
@@ -47,7 +47,7 @@ Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi5
 #### c. Hasil
 
 
-### GPIO | Percobaan 2 Dengan Push Button
+### 2. GPIO | Percobaan 2 Dengan Push Button
 
 #### a. Rangkaian 
 
@@ -60,7 +60,7 @@ Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi5
 
 #### c. Hasil
 
-### GPIO | Percobaan 2 Dengan Penambahan 1 Push Button dan 1 LED
+### 3. GPIO | Percobaan 2 Dengan Penambahan 1 Push Button dan 1 LED
 
 #### a. Rangkaian 
 
@@ -73,7 +73,7 @@ Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi5
 
 #### c. Hasil
 
-### GPIO | Percobaan 3 Dengan Penambahan 1 Push Button dan 3 LED
+### 4. GPIO | Percobaan 3 Dengan Penambahan 1 Push Button dan 3 LED
 
 #### a. Rangkaian 
 
@@ -88,7 +88,7 @@ Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi5
 
 ## B. PWM
 
-### PWM | Mengatur Kecerahan LED
+### 1. PWM | Mengatur Kecerahan LED
 
 #### a. Rangkaian 
 
@@ -100,7 +100,7 @@ Kode Program dapat dilihat dan dicoba <a href="">disini</a>
 
 #### c. Hasil
 
-### PWM | Mengatur Kecerahan 3 LED
+### 2. PWM | Mengatur Kecerahan 3 LED
 
 #### a. Rangkaian 
 
@@ -122,7 +122,6 @@ Kode Program dapat dilihat dan dicoba <a href="">disini</a>
 #### b. Source Kode
 Berikut adalah Kode Program yang digunakan 
 
-
 Kode Program dapat dilihat dan dicoba <a href="">disini</a>
 
 #### c. Hasil
@@ -133,7 +132,6 @@ Kode Program dapat dilihat dan dicoba <a href="">disini</a>
 
 #### b. Source Kode
 Berikut adalah Kode Program yang digunakan 
-
 
 Kode Program dapat dilihat dan dicoba <a href="">disini</a>
 

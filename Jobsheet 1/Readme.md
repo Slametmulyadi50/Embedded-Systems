@@ -147,7 +147,10 @@ Berikut adalah Kode Program yang digunakan
 Kode Program dapat dilihat dan dicoba <a href="">disini</a>
 
 #### c. Hasil
-- 
+- Tanpa tanah
+- Tanah Kering
+- Tanah Medium
+- Tanah Basah
 
 
   

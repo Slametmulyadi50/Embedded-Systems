@@ -151,8 +151,7 @@ Kode Program dapat dilihat dan dicoba <a href="">disini</a>
 - Tanah Kering
 - Tanah Medium
 - Tanah Basah
+- Hasil tabel
 
 
-  
-> [!NOTE]  
-> *Buka folder-folder subjob untuk melihat laporan percobaan*
+

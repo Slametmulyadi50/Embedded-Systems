@@ -39,8 +39,6 @@
 #### a. Rangkaian 
 
 #### b. Source Kode 
-Berikut adalah Kode Program yang digunakan 
-
 
 Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/949f05fa067465d8b75d7fa57da31ae802427fe0/Jobsheet%201/A.%20GPIO/GPIO_LED_Blink.ino">disini</a>
 
@@ -52,8 +50,6 @@ Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi5
 #### a. Rangkaian 
 
 #### b. Source Kode 
-Berikut adalah Kode Program yang digunakan 
-
 
 Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/83ca03f5bf528b2a96ecef010ff0196dcd0cc840/Jobsheet%201/A.%20GPIO/GPIO_LED_dengan_Push_Button.ino">disini</a>
 
@@ -65,8 +61,6 @@ Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi5
 #### a. Rangkaian 
 
 #### b. Source Kode 
-Berikut adalah Kode Program yang digunakan 
-
 
 Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/83ca03f5bf528b2a96ecef010ff0196dcd0cc840/Jobsheet%201/A.%20GPIO/GPIO_LED_Tambah_1_LED_dan_1_Push_Button.ino">disini</a>
 
@@ -78,8 +72,6 @@ Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi5
 #### a. Rangkaian 
 
 #### b. Source Kode 
-Berikut adalah Kode Program yang digunakan 
-
 
 Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/83ca03f5bf528b2a96ecef010ff0196dcd0cc840/Jobsheet%201/A.%20GPIO/GPIO_LED_Tambah_3_LED_dan_1_Push_Button.ino">disini</a>
 
@@ -93,8 +85,6 @@ Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi5
 #### a. Rangkaian 
 
 #### b. Source Kode
-Berikut adalah Kode Program yang digunakan 
-
 
 Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/f174db04a86a62c7e0ae7ee84838e93d72eae4e7/Jobsheet%201/B.%20PWM/PWM_1.ino">disini</a>
 
@@ -105,8 +95,6 @@ Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi5
 #### a. Rangkaian 
 
 #### b. Source Kode
-Berikut adalah Kode Program yang digunakan 
-
 
 Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/f174db04a86a62c7e0ae7ee84838e93d72eae4e7/Jobsheet%201/B.%20PWM/PWM_2.ino">disini</a>
 
@@ -120,7 +108,6 @@ Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi5
 #### a. Rangkaian 
 
 #### b. Source Kode
-Berikut adalah Kode Program yang digunakan 
 
 Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/f174db04a86a62c7e0ae7ee84838e93d72eae4e7/Jobsheet%201/C.%20ADC%20dan%20DAC/ADC_dan_DAC_Rangkaian_1.ino">disini</a>
 
@@ -130,8 +117,7 @@ Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi5
 
 #### a. Rangkaian 
 
-#### b. Source Kode
-Berikut adalah Kode Program yang digunakan 
+#### b. Source Kode 
 
 Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/f174db04a86a62c7e0ae7ee84838e93d72eae4e7/Jobsheet%201/C.%20ADC%20dan%20DAC/ADC_dan_DAC_Rangkaian_2_Potensiometer.ino">disini</a>
 
@@ -141,8 +127,7 @@ Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi5
 
 #### a. Rangkaian 
 
-#### b. Source Kode
-Berikut adalah Kode Program yang digunakan 
+#### b. Source Kode 
 
 **Kode Program dapat dilihat dan dicoba**
 

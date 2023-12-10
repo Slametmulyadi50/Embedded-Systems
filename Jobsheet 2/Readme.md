@@ -21,7 +21,6 @@ satu dengan yang lainnya. Selain UART ada juga SPI _(Serial Peripheral Interface
 6) Resistor 330,1K, 10K Ohm (@3)
 7) Sensor RFID
 8) Servo
-9) 
 
 
 ## A. ESP32 Capacitive Touch Sensor 

@@ -56,8 +56,8 @@ https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/8d82e88c-dd
 
 Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/83ca03f5bf528b2a96ecef010ff0196dcd0cc840/Jobsheet%201/A.%20GPIO/GPIO_LED_dengan_Push_Button.ino">disini</a>
 
-
 #### c. Hasil
+https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/bb6ac9fa-6cce-49a5-8635-95c78520df74
 
 ### 3. GPIO | Percobaan 3 Dengan Penambahan 1 Push Button dan 1 LED
 

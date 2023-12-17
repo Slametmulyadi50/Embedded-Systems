@@ -50,7 +50,7 @@ https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/8d82e88c-dd
 ### 2. GPIO | Percobaan 2 Dengan Push Button
 
 #### a. Rangkaian 
-
+![GPIO-Rangkaian 1](https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/1fd416d0-de54-4b98-a34d-40dedd18d776)
 
 #### b. Source Kode 
 

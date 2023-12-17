@@ -49,6 +49,7 @@ Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi5
 ### 2. GPIO | Percobaan 2 Dengan Push Button
 
 #### a. Rangkaian 
+![image](https://github.com/Slametmulyadi50/Embedded-Systems/blob/3f42d161b71a8c8c98f0280ad5b00c2ef38bb510/Jobsheet%201/1.%20Assets/GPIO-Rangkaian%201.jpg)
 
 #### b. Source Kode 
 

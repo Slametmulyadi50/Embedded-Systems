@@ -56,7 +56,7 @@ Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi5
 
 #### c. Hasil
 
-### 3. GPIO | Percobaan 2 Dengan Penambahan 1 Push Button dan 1 LED
+### 3. GPIO | Percobaan 3 Dengan Penambahan 1 Push Button dan 1 LED
 
 #### a. Rangkaian 
 
@@ -67,7 +67,7 @@ Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi5
 
 #### c. Hasil
 
-### 4. GPIO | Percobaan 3 Dengan Penambahan 1 Push Button dan 3 LED
+### 4. GPIO | Percobaan 4 Dengan Penambahan 1 Push Button dan 3 LED
 
 #### a. Rangkaian 
 

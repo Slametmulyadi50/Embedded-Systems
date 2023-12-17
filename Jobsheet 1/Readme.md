@@ -44,7 +44,8 @@
 Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/949f05fa067465d8b75d7fa57da31ae802427fe0/Jobsheet%201/A.%20GPIO/GPIO_LED_Blink.ino">disini</a>
 
 #### c. Hasil
-https://github.com/Slametmulyadi50/Embedded-Systems/blob/240c79e6fc1c096de9583284ea484caa08cc77cb/Jobsheet%201/1.%20Assets/Percobaan%201%20LED%20Blink.mp4
+https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/8d82e88c-ddf0-4a6e-84c8-7a187197a317
+
 
 ### 2. GPIO | Percobaan 2 Dengan Push Button
 

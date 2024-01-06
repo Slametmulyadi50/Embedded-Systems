@@ -69,6 +69,7 @@ Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi5
 
 
 #### c. Hasil
+https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/89c10807-bf1f-4a14-88b8-c8f6a2466469
 
 ### 4. GPIO | Percobaan 4 Dengan Penambahan 1 Push Button dan 3 LED
 

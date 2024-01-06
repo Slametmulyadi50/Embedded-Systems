@@ -62,6 +62,7 @@ https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/bb6ac9fa-6c
 ### 3. GPIO | Percobaan 3 Dengan Penambahan 1 Push Button dan 1 LED
 
 #### a. Rangkaian 
+![Rangkaian GPIO 2](https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/15008466-3cbf-450b-b508-73c9adf73839)
 
 #### b. Source Kode 
 

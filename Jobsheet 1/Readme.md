@@ -75,6 +75,7 @@ https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/89c10807-bf
 ### 4. GPIO | Percobaan 4 Dengan Penambahan 1 Push Button dan 3 LED
 
 #### a. Rangkaian 
+![Rangkaian GPIO 3](https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/1b10006b-51a7-4d88-b6a9-901fb8614da4)
 
 #### b. Source Kode 
 
@@ -82,12 +83,14 @@ Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi5
 
 
 #### c. Hasil
+https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/d4b76385-1433-4acc-afb1-4d1c448e508f
 
 ## B. PWM (Pulse Width Modulation)
 
 ### 1. PWM | Mengatur Kecerahan LED
 
 #### a. Rangkaian 
+![Rangkaian PWM](https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/948adef0-757e-4f05-beec-cfc1671305a5)
 
 #### b. Source Kode
 

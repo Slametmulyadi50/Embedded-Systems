@@ -28,6 +28,7 @@ satu dengan yang lainnya. Selain UART ada juga SPI _(Serial Peripheral Interface
 ### 1. Capacitive Touch Sensor | Percobaan 1 Touch Sensor
 
 #### a. Rangkaian 
+![Rangkaian Capacitive Sensor ](https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/807c7d5f-8b03-4892-834c-7ed4c802f743)
 
 #### b. Source Kode 
 
@@ -39,6 +40,7 @@ Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi5
 ### 2. Capacitive Touch Sensor | Percobaan 2 LED menyala ketika sensor Touch disentuh
 
 #### a. Rangkaian 
+![Rangkaian Capacitive Sensor ](https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/807c7d5f-8b03-4892-834c-7ed4c802f743)
 
 #### b. Source Kode 
 
@@ -46,10 +48,12 @@ Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi5
 
 
 #### c. Hasil
+https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/68246a2f-7818-43ad-b2a7-d5dff04f81c7
 
 ### 3. Capacitive Touch Sensor| Percobaan 3 LED Blink Ketika Senro Touch disentuh
 
 #### a. Rangkaian 
+![Rangkaian Capacitive Sensor ](https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/807c7d5f-8b03-4892-834c-7ed4c802f743)
 
 #### b. Source Kode 
 
@@ -57,10 +61,12 @@ Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi5
 
 
 #### c. Hasil
+https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/c5e994e9-4a0a-4288-a92a-146b61ff79c1
 
 ### 4. Capacitive Touch Sensor | Percobaan 4 LED menyala dan serial monitor menampilka angka yang akan bertambah jika Sensor Touch disentuh
 
 #### a. Rangkaian 
+![Rangkaian Capacitive Sensor ](https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/807c7d5f-8b03-4892-834c-7ed4c802f743)
 
 #### b. Source Kode 
 
@@ -73,12 +79,15 @@ Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi5
 
 #### a. Rangkaian 
 
+
 #### b. Source Kode 
 
 Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/bd605bb7396bc75a046b9aab1de7ef54dbb22be5/Jobsheet%202/A.%20Capacitive%20Sensor%20Touch/5._3_LED_menyala_Running_LED_dari_kiri_ke_kanan_ketika_sensor_d/5._3_LED_menyala_Running_LED_dari_kiri_ke_kanan_ketika_sensor_d.ino">disini</a>
 
 
 #### c. Hasil
+https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/6e0ce63c-2395-4136-9674-5505420e013a
+
 ## B. DHT
 
 ### 1. DHT | Membaca hasil sensor di Serial Monitor

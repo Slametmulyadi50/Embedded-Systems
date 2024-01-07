@@ -36,6 +36,8 @@ Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi5
 ### 1. Basic
 
 #### a. Rangkaian 
+![Rangkaian B Basic](https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/53165624-4aef-4f0b-b3ad-b762373a3ce6)
+
 
 #### b. Source Kode 
 

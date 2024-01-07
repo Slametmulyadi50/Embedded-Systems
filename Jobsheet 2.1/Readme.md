@@ -336,5 +336,5 @@ https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/747d6399-b3
 https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/e5abe716-eb05-4530-a9f6-7a1601a89859
 
 ## Analisis Sederhana
-<p align="justify"> </p>
+<p align="justify"> Pada Percobaan kali ini kita belajar mengenai ESP-NOW, yaitu sebuah komunikasi nirkabel tanpa menggunakan wifi. ini salah satu fitur yang ada pada esp yaitu komunikasi menggunakan perangkat esp dengan esp lainnya. inti dari praktikum ini adalah komunikasi antar esp menggunakan esp-now, dalam proses praktikumnya kita melakukan percobaan percobaan seperti mengirim pesan yang sama, pesan yang berbeda sampai dengan mengirim dari 1 esp ke beberapa esp begitupun sebaliknyan menerima pesan dari beberapa esp ke dalam 1 esp</p>
 

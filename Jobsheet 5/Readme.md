@@ -117,3 +117,7 @@
 
 # b.	Hasil
 <img width="636" alt="D Menggunakan JSON Parsing" src="https://github.com/maratumaritha/Laporan-Embedded/assets/151802682/5dd9827c-f15e-4137-9bef-65c13af0e021">
+
+
+# Analisa
+<p align="justify"> pada praktikum ini kita mempelajari dasar-dasar node-red, Node-RED adalah suatu alat pengembangan visual yang digunakan untuk menghubungkan perangkat, layanan, dan aplikasi secara mudah dan intuitif. Dikembangkan oleh IBM, Node-RED memungkinkan pengguna untuk membuat alur kerja (flow) secara visual dengan menggunakan simpul (node) yang merepresentasikan fungsi atau tugas tertentu. disini kita memulai dengan flow sederhana.

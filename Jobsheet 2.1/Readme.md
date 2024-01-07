@@ -266,7 +266,8 @@ Pada percobaan ini, pengiriman Point-to-Point dilakukan dalam beberapa kondisi. 
 https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/696e3def-b068-4226-be73-75ab80150d73
 
 ##### Hasil Terima
-https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/19a537c6-5140-433f-95a0-a4c7b3fabd
+https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/19a537c6-5140-433f-95a0-a4c7b3fabd0a
+
 
 
 

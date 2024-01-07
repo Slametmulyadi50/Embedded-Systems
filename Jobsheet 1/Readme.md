@@ -123,6 +123,7 @@ https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/99626fcf-60
 Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/f174db04a86a62c7e0ae7ee84838e93d72eae4e7/Jobsheet%201/C.%20ADC%20dan%20DAC/ADC_dan_DAC_Rangkaian_1.ino">disini</a>
 
 #### c. Hasil
+https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/e7e92a25-981a-4033-a8cd-864b37525e36
 
 ### 2. ADC Dan DAC | Mengatur Kecerahan LED menggunakan Potensiometer
 
@@ -153,13 +154,14 @@ Source kode 3 hasil akhir dari pengukuran dan perbandingan ke 3 sample tanah <a 
 
 
 #### c. Hasil
-- Tanah Kering
-- Tanah Medium
-- Tanah Basah
-- Hasil tabel
 
-  ![Tabel regresi linier](https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/e6feb3ef-ef05-460d-ade2-b13728d02bc3)
+- Tabel Pengambilan Data
 
+![Tabel regresi linier](https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/fafde01b-233e-40f4-b351-a31c9c1c6483)
+  
+- Tabel Regresi Linier
+
+![Regresi Linier](https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/a190a038-88c5-462e-92ea-2c4547d4b53b)
 
 ## Analisis Sederhana
 <p align="justify">Pada Praktikum kali ini kita mengenal dasar ESP32, tentunya sebuah microcontroller memiliki sebuah pin out yang digunakan, nah di ESP32 ini memiliki beberapa pinout mulai dari GPIO, ADC, DAC, PWM,UART dan lain sebagainya. Pada Praktikum ini kita mencoba beberapa pinout yang dibagi menjadi 4 sub job. 

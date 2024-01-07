@@ -97,17 +97,19 @@ https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/d4b76385-14
 Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/f174db04a86a62c7e0ae7ee84838e93d72eae4e7/Jobsheet%201/B.%20PWM/PWM_1.ino">disini</a>
 
 #### c. Hasil
+https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/a24019db-77a2-44f0-a1bc-18acb642ae87
 
 ### 2. PWM | Mengatur Kecerahan 3 LED
 
 #### a. Rangkaian 
+![Rangkaian PWM](https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/948adef0-757e-4f05-beec-cfc1671305a5)
 
 #### b. Source Kode
 
 Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/f174db04a86a62c7e0ae7ee84838e93d72eae4e7/Jobsheet%201/B.%20PWM/PWM_2.ino">disini</a>
 
 #### c. Hasil
-
+https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/99626fcf-6095-44f7-9e49-41d8b2851bbf
 
 ## C. ADC Dan DAC (Analog to Digital Converter) dan (Digital to Analog Converter)
 
@@ -130,6 +132,7 @@ Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi5
 Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/f174db04a86a62c7e0ae7ee84838e93d72eae4e7/Jobsheet%201/C.%20ADC%20dan%20DAC/ADC_dan_DAC_Rangkaian_2_Potensiometer.ino">disini</a>
 
 #### c. Hasil
+https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/a353c6f8-67fd-40a0-b163-7bdf152628d0
 
 ## D. Simulasi Pemrosesan Data Menggunakan Regresi Linier
 

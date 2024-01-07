@@ -143,5 +143,7 @@ Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi5
 https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/001614ec-6ce2-4a62-a273-15ee57898e85
 
 ## Analisis Sederhana
-<p align="justify"> Bentar dulu heheh</p>
+<p align="justify"> Dari Praktikum Jobsheet 2 ini kita belajar mengenai protokol protokol komunikasi yang ada pada ESP32 dengan menggunakan beberapa sensor. Pada Jobsheet 2 ini terdapat 3 Sub Jobsheet yaitu yang pertama mengenai Capacitive Touch Sensor dimana pada ESP32 terdapat pin yang bisa digunakan untuk touch sensor. Pada Sub job yang pertama ini kita mencoba berbagai program sederhana seperti led mneyala, blink dan running led.
+Pada Sub Job 2 kita belajar mengenai senso DHT 11 yaitu sebuah sensor yang biasa digunakan untuk mengukur suhu kita mencoba prgram pertama yang hanya untuk mengakases sensor DHT 11 saja. untuk percobaan kedua kita membuat logika dalam program yaitu ketika sensor dht ini mendeteksi suhu sekitar diatas 30 derajat maka Led dan buzzer akan menyala, biasanya sensor ini bisa diterapkan di pendeteksi suhu runagan.
+Pada Sub Job 3 kita belajar mengenai sensor RFID (SPI communication) pada percobaan ini kita membuat program sederhana untuk memberikan akses RFID kemudian dikombinasikan dengan servo, ketika kita mendapatkan aksees di RFID readernya maka servo akan berputar, percobaan ini seperti teknologi parkir dan tol.  </p>
 

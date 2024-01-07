@@ -139,6 +139,7 @@ https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/a353c6f8-67
 ## D. Simulasi Pemrosesan Data Menggunakan Regresi Linier
 
 #### a. Rangkaian 
+![Rangkaian Regresi](https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/2af32ed7-896c-41de-8b0f-cb05ebcdf6a9)
 
 #### b. Source Kode 
 
@@ -156,6 +157,7 @@ Source kode 3 hasil akhir dari pengukuran dan perbandingan ke 3 sample tanah <a 
 - Tanah Medium
 - Tanah Basah
 - Hasil tabel
+  ![Tabel regresi linier](https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/e6feb3ef-ef05-460d-ade2-b13728d02bc3)
 
 
 ## Analisis Sederhana

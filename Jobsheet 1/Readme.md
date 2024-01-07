@@ -116,6 +116,7 @@ https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/99626fcf-60
 ### 1. ADC Dan DAC | Membaca nilai analog dari Potensiometer
 
 #### a. Rangkaian 
+![Rangkaian ADC 1](https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/28172adb-2a1b-481d-9a9b-5af7e9569420)
 
 #### b. Source Kode
 
@@ -126,6 +127,7 @@ Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi5
 ### 2. ADC Dan DAC | Mengatur Kecerahan LED menggunakan Potensiometer
 
 #### a. Rangkaian 
+![Rangkaian ADC 2](https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/61df7258-5d4f-49d2-ba39-31c518f4ac46)
 
 #### b. Source Kode 
 

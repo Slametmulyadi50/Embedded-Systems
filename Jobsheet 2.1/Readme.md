@@ -295,6 +295,25 @@ https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/e79067f0-66
 
 https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/fb92afaf-538a-45d3-8330-27b8c499cf83
 
+### 2. Mengirim Data yang Berbeda
+
+#### a. Rangkaian 
+![Rangkaian C](https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/47b20a82-9294-4dcc-8e1a-ef70e1226654)
+
+#### b. Source Kode 
+
+Kode Program Receiver dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/d6245f374e1326a43deb2954ed4cf9f5e97337c5/Jobsheet%202.1/C.%20One-way%2C%20One%20to%20Many%20Communication/C._b._4_ESP_SENDER/C._b._4_ESP_SENDER.ino">disini</a>
+
+Kode Program Receiver dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/d6245f374e1326a43deb2954ed4cf9f5e97337c5/Jobsheet%202.1/C.%20One-way%2C%20One%20to%20Many%20Communication/C._b._4_ESP_RECEIVER/C._b._4_ESP_RECEIVER.ino">disini</a>
+
+#### c. Hasil
+##### Hasil Sender
+
+https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/a41942ef-9ccc-4eea-a231-dc17cbe42270
+
+##### Hasil Receiver
+
+https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/2883a9f5-914e-4047-a514-9e8c334a7590
 
 
 ### 4. GPIO | Percobaan 4 Dengan Penambahan 1 Push Button dan 3 LED

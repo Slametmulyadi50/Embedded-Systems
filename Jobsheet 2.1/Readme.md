@@ -287,11 +287,13 @@ Kode Program Receiver dapat dilihat dan dicoba <a href="https://github.com/Slame
 Kode Program Receiver dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/b043eb377cf853715515986a9f45bdc6c929b14e/Jobsheet%202.1/C.%20One-way%2C%20One%20to%20Many%20Communication/C._a._4_ESP_SENDER/C._a._4_ESP_SENDER.ino">disini</a>
 
 #### c. Hasil
-Hasil Sender
+##### Hasil Sender
+
 https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/e79067f0-667f-45db-b229-05e3b4d21298
 
-Hasil Receiver
-https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/21a9d8fe-6d0a-4f0a-b4b6-1dcf1b8c39be
+##### Hasil Receiver
+
+https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/fb92afaf-538a-45d3-8330-27b8c499cf83
 
 
 

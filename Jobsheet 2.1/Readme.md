@@ -244,11 +244,7 @@ typedef struct struct_message {
 ```
 Hasilnya adalah sebagai berikut
 
-##### Sender
-
-
-##### Receiver
-
+https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/e382aac1-1712-4925-8bb1-c65a4d8cbe10
 
 
 

@@ -268,6 +268,9 @@ https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/696e3def-b0
 ##### Hasil Terima
 https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/19a537c6-5140-433f-95a0-a4c7b3fabd0a
 
+##### Hasil Tabel
+
+![hasil tabel](https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/73e0fd6a-7f86-4837-a9ed-5a397745c313)
 
 
 

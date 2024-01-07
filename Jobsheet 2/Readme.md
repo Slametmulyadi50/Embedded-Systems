@@ -35,7 +35,7 @@ satu dengan yang lainnya. Selain UART ada juga SPI _(Serial Peripheral Interface
 Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/bd605bb7396bc75a046b9aab1de7ef54dbb22be5/Jobsheet%202/A.%20Capacitive%20Sensor%20Touch/1._Touch_Script_1/1._Touch_Script_1.ino">disini</a>
 
 #### c. Hasil
-
+https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/a2e5b4ba-25b3-41b9-9859-1bbef19d409c
 
 ### 2. Capacitive Touch Sensor | Percobaan 2 LED menyala ketika sensor Touch disentuh
 
@@ -74,6 +74,7 @@ Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi5
 
 
 #### c. Hasil
+https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/6a7ec006-312a-4923-bc86-a98f75728e9c
 
 ### 5. Capacitive Touch Sensor | Percobaan 5 LED menyala running dari kiri ke kanan ketika Sensor disentuh
 

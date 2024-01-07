@@ -27,7 +27,7 @@
 Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/325d810737b802a6f108a95d09dd8772504b7dde/Jobsheet%202.1/A.%20Mac%20Address/A._Mac/A._Mac.ino">disini</a>
 
 #### b. Hasil
-
+![Hasil A](https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/d389d0a6-a2ad-4061-8b88-58b2fac6da31)
 
 
 

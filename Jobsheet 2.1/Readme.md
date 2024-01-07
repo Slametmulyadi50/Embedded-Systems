@@ -225,10 +225,11 @@ Program ini, ketika dijalankan, akan terus mendengarkan dan menampilkan informas
 Sehingga output yang dihasilkan adalah pada serial monitor sender akan menghasilkan output berupa “Data berhasil dikirim” sedangkan pada serial monitor receiver output yang dihasilkan berupa “INI ADALAH CHAR”
 
 ##### Sender
-
+![B sbg Sender](https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/9298e680-c3a5-4275-869f-a44aa5280c14)
 
 
 ##### Receiver
+![B sbg Receiver](https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/10567675-3329-4f91-9910-32d3173c859a)
 
 
 

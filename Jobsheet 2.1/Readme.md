@@ -43,16 +43,6 @@ Kode Program dapat dilihat dan dicoba <a href="">disini</a>
 
 #### c. Hasil
 
-### 2. Tugas
-
-#### a. Rangkaian 
-
-#### b. Source Kode 
-
-Kode Program dapat dilihat dan dicoba <a href="">disini</a>
-
-#### c. Hasil
-
 Program dibagi menjadi 2, yaitu sender dan receiver<br>
 Penjelasan program sender adalah sebagai berikut
 
@@ -253,6 +243,31 @@ Hasilnya adalah sebagai berikut
 
 
 ##### Receiver
+
+
+
+
+### 2. Tugas
+
+#### a. Rangkaian 
+
+#### b. Source Kode 
+
+Kode Program dapat dilihat dan dicoba <a href="">disini</a>
+
+#### c. Hasil
+Pada percobaan ini, pengiriman Point-to-Point dilakukan dalam beberapa kondisi. Pertama, ada 3 kondisi jarak transmisi yaitu 1 meter, 2 meter, dan 3 meter. Kemudian, pada masing-masing jarak diberikan 3 kondisi ketinggian yaitu ground, 30cm, dan 1 meter diatas permukaan tanah. Hasil pemantauan jumlah data yang berhasil terkirim dan diterima adalah sebagai berikut
+
+##### Hasil Kirim
+
+
+
+##### Hasil Terima
+
+
+
+##### Hasil Tabel
+
 
 
 ### 3. GPIO | Percobaan 3 Dengan Penambahan 1 Push Button dan 1 LED

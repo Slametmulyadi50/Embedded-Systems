@@ -93,3 +93,7 @@ Berikut adalah kode program yang digunakan
 Kode program dapat dilihat dan dicoba <a href="https://github.com/maratumaritha/Laporan-Embedded/blob/master/JOBSHEET%203/E/E.ino">disini</a>
 
 ### c.	Hasil 
+
+
+# Analisis
+<p align="justify">Pemahaman dan aplikasi protokol topologi jaringan lokal berbasis Wi-Fi, untuk merancang topologi jaringan Wi-Fi guna mendukung Wireless Sensor Network (WSN) dan Internet of Things (IoT) dengan tepat. Wi-Fi, selain sebagai penghubung perangkat ke internet, juga menjadi landasan utama dalam menciptakan konektivitas nirkabel untuk aplikasi canggih ini. Dengan penjelasan singkat namun padat, laporan ini menyoroti jangkauan Wi-Fi dan peran kunci wireless adaptor serta router dalam proses komunikasi dua arah. Topologi jaringan sesuai kondisi lapangan untuk implementasi WSN dan IoT. 

@@ -157,6 +157,7 @@ Source kode 3 hasil akhir dari pengukuran dan perbandingan ke 3 sample tanah <a 
 - Tanah Medium
 - Tanah Basah
 - Hasil tabel
+
   ![Tabel regresi linier](https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/e6feb3ef-ef05-460d-ade2-b13728d02bc3)
 
 

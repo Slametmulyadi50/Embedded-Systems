@@ -79,7 +79,7 @@ https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/6a7ec006-31
 ### 5. Capacitive Touch Sensor | Percobaan 5 LED menyala running dari kiri ke kanan ketika Sensor disentuh
 
 #### a. Rangkaian 
-
+![Rangkaian capcitvie sensor 2](https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/77db95eb-5b64-4ae9-a820-867ccbf9a5db)
 
 #### b. Source Kode 
 

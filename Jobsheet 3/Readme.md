@@ -96,4 +96,4 @@ Kode program dapat dilihat dan dicoba <a href="https://github.com/maratumaritha/
 
 
 # Analisis
-<p align="justify">
+<p align="justify"> pada percobaan kali ini terdapat beberapa sub job, pada sub job pertama kita memindai jaringan wifi menggunakan esp32, kemudian untuk percobaan kedua kita menghubungkan ke jaringan wifi yang tersedia disini esp digunakan sebagai client, untuk percobaan ketiga program dikembangkan agar ketika disconnected dengan wifi makan sistem akan auto reconnect. untuk percobaan keempat ini kita mengganti hostname dari esp32 dengan menggunkan perintah `WiFi.setHostname()`. dan di percobaan terakhir kita mencoba mengirimkan data dari sensor dht 11 ke database.

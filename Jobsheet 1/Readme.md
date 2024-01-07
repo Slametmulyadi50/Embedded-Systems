@@ -97,23 +97,26 @@ https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/d4b76385-14
 Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/f174db04a86a62c7e0ae7ee84838e93d72eae4e7/Jobsheet%201/B.%20PWM/PWM_1.ino">disini</a>
 
 #### c. Hasil
+https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/a24019db-77a2-44f0-a1bc-18acb642ae87
 
 ### 2. PWM | Mengatur Kecerahan 3 LED
 
 #### a. Rangkaian 
+![Rangkaian PWM](https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/948adef0-757e-4f05-beec-cfc1671305a5)
 
 #### b. Source Kode
 
 Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/f174db04a86a62c7e0ae7ee84838e93d72eae4e7/Jobsheet%201/B.%20PWM/PWM_2.ino">disini</a>
 
 #### c. Hasil
-
+https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/99626fcf-6095-44f7-9e49-41d8b2851bbf
 
 ## C. ADC Dan DAC (Analog to Digital Converter) dan (Digital to Analog Converter)
 
 ### 1. ADC Dan DAC | Membaca nilai analog dari Potensiometer
 
 #### a. Rangkaian 
+![Rangkaian ADC 1](https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/28172adb-2a1b-481d-9a9b-5af7e9569420)
 
 #### b. Source Kode
 
@@ -124,16 +127,19 @@ Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi5
 ### 2. ADC Dan DAC | Mengatur Kecerahan LED menggunakan Potensiometer
 
 #### a. Rangkaian 
+![Rangkaian ADC 2](https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/61df7258-5d4f-49d2-ba39-31c518f4ac46)
 
 #### b. Source Kode 
 
 Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/f174db04a86a62c7e0ae7ee84838e93d72eae4e7/Jobsheet%201/C.%20ADC%20dan%20DAC/ADC_dan_DAC_Rangkaian_2_Potensiometer.ino">disini</a>
 
 #### c. Hasil
+https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/a353c6f8-67fd-40a0-b163-7bdf152628d0
 
 ## D. Simulasi Pemrosesan Data Menggunakan Regresi Linier
 
 #### a. Rangkaian 
+![Rangkaian Regresi](https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/2af32ed7-896c-41de-8b0f-cb05ebcdf6a9)
 
 #### b. Source Kode 
 
@@ -151,6 +157,8 @@ Source kode 3 hasil akhir dari pengukuran dan perbandingan ke 3 sample tanah <a 
 - Tanah Medium
 - Tanah Basah
 - Hasil tabel
+
+  ![Tabel regresi linier](https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/e6feb3ef-ef05-460d-ade2-b13728d02bc3)
 
 
 ## Analisis Sederhana

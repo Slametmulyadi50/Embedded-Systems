@@ -101,6 +101,7 @@ https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/6e0ce63c-23
 Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/bd605bb7396bc75a046b9aab1de7ef54dbb22be5/Jobsheet%202/B.%20DHT/1._DHT_1/1._DHT_1.ino">disini</a>
 
 #### c. Hasil
+![B 1](https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/c2932dec-3c44-4e3a-98d2-e483fb92cc9b)
 
 ### 2. DHT | Mengatur Suhu ruangan dengan tambahan Buzzer, Buzzer akan berbunyi jika Suhu di atas 30 Derajat Celcius
 

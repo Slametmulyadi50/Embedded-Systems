@@ -94,6 +94,7 @@ https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/6e0ce63c-23
 ### 1. DHT | Membaca hasil sensor di Serial Monitor
 
 #### a. Rangkaian 
+![Sensor DHT](https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/0702545e-cff3-43b4-a37b-cba9e49a33e5)
 
 #### b. Source Kode
 
@@ -104,6 +105,7 @@ Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi5
 ### 2. DHT | Mengatur Suhu ruangan dengan tambahan Buzzer, Buzzer akan berbunyi jika Suhu di atas 30 Derajat Celcius
 
 #### a. Rangkaian 
+![Rangkaian DHT 2](https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/b9eb6324-ee27-4cac-a419-124e6482d449)
 
 #### b. Source Kode
 
@@ -117,24 +119,27 @@ Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi5
 ### 1. RFID | Tag RFID untuk mengetahui Hak Akses
 
 #### a. Rangkaian 
+![RFID](https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/5f9ee751-2217-41f9-9728-7518df2e5208)
 
 #### b. Source Kode
 
 Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/bd605bb7396bc75a046b9aab1de7ef54dbb22be5/Jobsheet%202/C.%20RFID/1._RFID_1/1._RFID_1.ino">disini</a>
 
 #### c. Hasil
+https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/37e2bffd-dfe7-4dde-ad4c-2dfe09937be9
 
 ### 2. RFID | Hak akses digunakan untuk menjalankan Servo dan LED 
 
 #### a. Rangkaian 
+![Rangkaian RFID TUgas](https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/c6b128f0-ffda-42ca-84a1-553f735269c1)
+
 
 #### b. Source Kode 
 
 Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/bd605bb7396bc75a046b9aab1de7ef54dbb22be5/Jobsheet%202/C.%20RFID/2._RFID_dengan_Servo/2._RFID_dengan_Servo.ino">disini</a>
 
 #### c. Hasil
-
-
+https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/001614ec-6ce2-4a62-a273-15ee57898e85
 
 ## Analisis Sederhana
 <p align="justify"> Bentar dulu heheh</p>

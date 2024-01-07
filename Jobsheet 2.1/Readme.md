@@ -1,7 +1,7 @@
 # JOBSHEET 2.1 - JARINGAN SENSOR NIRKABEL MENGGUNAKAN ESP-NOW
 
 ## Abstrak
-<p align="justify">ESP-NOW adalah protokol yang memnungkinkan banyak perangkat untuk komunikasi satu sama lain tanpa meggunakan wifi. Protokol ini mirip dengan konektivitas 2.4GHz berdaya rendah. Komunikasi ini mengandalkan pendifinisian dari MAC ADDRESS ESP 32. Setelah konfigurasi alamat selesai dilakukan </p>
+<p align="justify">ESP-NOW adalah protokol yang memnungkinkan banyak perangkat untuk komunikasi satu sama lain tanpa meggunakan wifi. Protokol ini mirip dengan konektivitas 2.4GHz berdaya rendah. Komunikasi ini mengandalkan pendifinisian dari MAC ADDRESS ESP 32. Setelah konfigurasi alamat selesai dilakukan maka jaringan peer-to-peer akan terbentuk, memungkinkan adanya koneksi yang tetap tanpa perlu melakukan proses handshaking ulang. Jika salah satu perangkat ESP32 mati atau diatur ulang, koneksi secara otomatis akan pulih saat perangkat tersebut di-restart dan terhubung kembali ke perangkat pasangannya yang telah ditentukan alamatnya. </p>
 
 
 **Tujuan pada jobsheet ini**, antara lain:
@@ -18,20 +18,20 @@
 4) Potensiometer 10k Ohm
 
 
-## A. GPIO (General Purpose Input-Output)
+## A. ESP-NOW | Memperoleh Mac Address
 
-### 1. GPIO | Percobaan 1 LED Blink
-
-#### a. Rangkaian 
+### Memperoleh Mac Address
 
 #### b. Source Kode 
 
-Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/949f05fa067465d8b75d7fa57da31ae802427fe0/Jobsheet%201/A.%20GPIO/GPIO_LED_Blink.ino">disini</a>
+Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/325d810737b802a6f108a95d09dd8772504b7dde/Jobsheet%202.1/A.%20Mac%20Address/A._Mac/A._Mac.ino">disini</a>
 
 #### c. Hasil
 
 
-### 2. GPIO | Percobaan 2 Dengan Push Button
+
+
+## B. ESP-NOW | One-Way Point-To-Point Commnunication
 
 #### a. Rangkaian 
 

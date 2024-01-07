@@ -39,7 +39,9 @@ Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi5
 
 #### b. Source Kode 
 
-Kode Program dapat dilihat dan dicoba <a href="">disini</a>
+Kode Program Sender dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/2894bb3a8cf26e1bc59389f72164bd12238f7e7b/Jobsheet%202.1/B.%20One%20Way%20Point%20to%20Point/B.one-way_Point_to_Point/B.one-way_Point_to_Point.ino">disini</a>
+
+Kode Program Receiver dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/2894bb3a8cf26e1bc59389f72164bd12238f7e7b/Jobsheet%202.1/B.%20One%20Way%20Point%20to%20Point/B.one-way_Point_to_Point_Receiver/B.one-way_Point_to_Point_Receiver.ino">disini</a>
 
 #### c. Hasil
 

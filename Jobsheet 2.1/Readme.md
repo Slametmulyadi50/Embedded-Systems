@@ -319,85 +319,22 @@ https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/a41942ef-9c
 https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/2883a9f5-914e-4047-a514-9e8c334a7590
 
 
-### 4. GPIO | Percobaan 4 Dengan Penambahan 1 Push Button dan 3 LED
+### 4. ESP-NOW | One-Way, Many-to-One Communication
 
 #### a. Rangkaian 
+![rangkaian D](https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/9c1df0cc-8b47-4e39-9183-4737df3ab313)
 
 #### b. Source Kode 
 
-Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/83ca03f5bf528b2a96ecef010ff0196dcd0cc840/Jobsheet%201/A.%20GPIO/GPIO_LED_Tambah_3_LED_dan_1_Push_Button.ino">disini</a>
-
-
-#### c. Hasil
-
-## B. PWM (Pulse Width Modulation)
-
-### 1. PWM | Mengatur Kecerahan LED
-
-#### a. Rangkaian 
-
-#### b. Source Kode
-
-Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/f174db04a86a62c7e0ae7ee84838e93d72eae4e7/Jobsheet%201/B.%20PWM/PWM_1.ino">disini</a>
+Kode Program Sender dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/4e5dec53cfa3b2cdfeffdbcec855621b3da50d33/Jobsheet%202.1/D.%20One-way%2C%20many%20to%20one%20communication/D_Sender/D_Sender.ino">disini</a>
+Kode Program Receiver dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/4e5dec53cfa3b2cdfeffdbcec855621b3da50d33/Jobsheet%202.1/D.%20One-way%2C%20many%20to%20one%20communication/D._Receiver/D._Receiver.ino">disini</a>
 
 #### c. Hasil
-
-### 2. PWM | Mengatur Kecerahan 3 LED
-
-#### a. Rangkaian 
-
-#### b. Source Kode
-
-Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/f174db04a86a62c7e0ae7ee84838e93d72eae4e7/Jobsheet%201/B.%20PWM/PWM_2.ino">disini</a>
-
-#### c. Hasil
-
-
-## C. ADC Dan DAC (Analog to Digital Converter) dan (Digital to Analog Converter)
-
-### 1. ADC Dan DAC | Membaca nilai analog dari Potensiometer
-
-#### a. Rangkaian 
-
-#### b. Source Kode
-
-Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/f174db04a86a62c7e0ae7ee84838e93d72eae4e7/Jobsheet%201/C.%20ADC%20dan%20DAC/ADC_dan_DAC_Rangkaian_1.ino">disini</a>
-
-#### c. Hasil
-
-### 2. ADC Dan DAC | Mengatur Kecerahan LED menggunakan Potensiometer
-
-#### a. Rangkaian 
-
-#### b. Source Kode 
-
-Kode Program dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/f174db04a86a62c7e0ae7ee84838e93d72eae4e7/Jobsheet%201/C.%20ADC%20dan%20DAC/ADC_dan_DAC_Rangkaian_2_Potensiometer.ino">disini</a>
-
-#### c. Hasil
-
-## D. Simulasi Pemrosesan Data Menggunakan Regresi Linier
-
-#### a. Rangkaian 
-
-#### b. Source Kode 
-
-**Kode Program dapat dilihat dan dicoba**
-
-Source kode 1 untuk mengukur kelembapan ke 3 sample tanah <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/f174db04a86a62c7e0ae7ee84838e93d72eae4e7/Jobsheet%201/D.%20Regresi%20Linier/Regresi_Linier_1.ino">disini</a>
-
-Source kode 2 untuk mengukur vs <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/f174db04a86a62c7e0ae7ee84838e93d72eae4e7/Jobsheet%201/D.%20Regresi%20Linier/Regresi_Linier_2.ino">disini</a>
-
-Source kode 3 hasil akhir dari pengukuran dan perbandingan ke 3 sample tanah <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/f174db04a86a62c7e0ae7ee84838e93d72eae4e7/Jobsheet%201/D.%20Regresi%20Linier/Regresi_Linier_3.ino">disini</a>
-
-
-#### c. Hasil
-- Tanah Kering
-- Tanah Medium
-- Tanah Basah
-- Hasil tabel
-
+##### Sender
+https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/747d6399-b346-4ca2-b42c-6f52daf0320b
+##### Receiver
+https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/e5abe716-eb05-4530-a9f6-7a1601a89859
 
 ## Analisis Sederhana
-<p align="justify">Pada Praktikum kali ini kita mengenal dasar ESP32, tentunya sebuah microcontroller memiliki sebuah pin out yang digunakan, nah di ESP32 ini memiliki beberapa pinout mulai dari GPIO, ADC, DAC, PWM,UART dan lain sebagainya. Pada Praktikum ini kita mencoba beberapa pinout yang dibagi menjadi 4 sub job. 
-   Yang pertama Sub-Job mengenai GPIO (General Purpose Input-Output) dimana kita hanya mengecek pinout GPIO dengan cara sederhana menggunakan LED dan juga push button untuk mengkreasikan LED tersebut. Sub-Job yang kedua Mengenai PWM (Pulse Width Modulation) dimana kita mencoba mengatur kecerahan LED menggunakan pin ini. Sub-Job yang ketiga yaitu ADC dan DAC, dimana kita mengkonversikan atau membaca nilai Analog dari Sebuah Potensiometer. Pada Sub-Job yang terakhir kita melakukan simulasi pemprosesan data menggunakan Regresi Linier, caranya kita menggunakan sensor soil moisture untuk mengukur 3 sample tanah yang kemudian kita mengambil datanya dan melakukan pemprosesan menggunakan ESP32.  </p>
+<p align="justify"> </p>
 

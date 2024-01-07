@@ -251,23 +251,24 @@ https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/e382aac1-17
 ### 2. Tugas
 
 #### a. Rangkaian 
+![Rangkaian B Basic](https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/53165624-4aef-4f0b-b3ad-b762373a3ce6)
 
 #### b. Source Kode 
 
-Kode Program dapat dilihat dan dicoba <a href="">disini</a>
+Kode Program Sender dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/2894bb3a8cf26e1bc59389f72164bd12238f7e7b/Jobsheet%202.1/B.%20One%20Way%20Point%20to%20Point/B.one-way_Point_to_Point/B.one-way_Point_to_Point.ino">disini</a>
+
+Kode Program Receiver dapat dilihat dan dicoba <a href="https://github.com/Slametmulyadi50/Embedded-Systems/blob/2894bb3a8cf26e1bc59389f72164bd12238f7e7b/Jobsheet%202.1/B.%20One%20Way%20Point%20to%20Point/B.one-way_Point_to_Point_Receiver/B.one-way_Point_to_Point_Receiver.ino">disini</a>
 
 #### c. Hasil
 Pada percobaan ini, pengiriman Point-to-Point dilakukan dalam beberapa kondisi. Pertama, ada 3 kondisi jarak transmisi yaitu 1 meter, 2 meter, dan 3 meter. Kemudian, pada masing-masing jarak diberikan 3 kondisi ketinggian yaitu ground, 30cm, dan 1 meter diatas permukaan tanah. Hasil pemantauan jumlah data yang berhasil terkirim dan diterima adalah sebagai berikut
 
 ##### Hasil Kirim
-
-
+https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/696e3def-b068-4226-be73-75ab80150d73
 
 ##### Hasil Terima
+https://github.com/Slametmulyadi50/Embedded-Systems/assets/151720537/19a537c6-5140-433f-95a0-a4c7b3fabd
 
 
-
-##### Hasil Tabel
 
 
 
